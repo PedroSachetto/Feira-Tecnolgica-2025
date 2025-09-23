@@ -1,4 +1,20 @@
 
+html {
+scroll-behavior: smooth;
+}
+
+body {
+font-family: sans-serif;
+background: #0b1020;
+color: #eee;
+Line-height: 1.6; 
+}
+.container {
+max-width: 1000px;
+margin: auto; 
+padding: 0 1rem; 
+}
+
 header {
 position: sticky;
 top: 0; 
