@@ -1,1 +1,1 @@
-# Feira-Tecnol-gica-2025
+# Feira-Tecnolgica-2025
